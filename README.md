@@ -13,7 +13,7 @@ The analysis should contain the following:
 Overview of the analysis: Explain the purpose of the new analysis.
 Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
-![https://github.com/ishan9220/Module-5---Pyber-Analysis/blob/main/Pyber%20Challenge.png]
+![](https://github.com/ishan9220/Module-5---Pyber-Analysis/blob/main/Pyber%20Challenge.png)
 
 
 Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
