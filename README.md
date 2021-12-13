@@ -19,10 +19,10 @@ Results: Using images from the summary DataFrame and multiple-line chart, descri
 ## Query used in python via pandas to pull the required data summary from the data file. 
 ![](https://github.com/ishan9220/Module-5---Pyber-Analysis/blob/main/pandas%20data%20frame%20result.png)
 
-##
+## Trend of fares by City Types across first halft of 2019
 ![](https://github.com/ishan9220/Module-5---Pyber-Analysis/blob/main/Pyber%20Challenge.png)
 
-## Dataframe with total rides, drivers, revenue, average fare and average fare earned per Driver
+## Dataframe with total rides, total drivers, total revenue from fares, average fare and average fare earned per driver
 ![](https://github.com/ishan9220/Module-5---Pyber-Analysis/blob/main/Fares%20results.png)
 
 # 3 Business recommendations to the CEO for addressing any disparities among the city types.
