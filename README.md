@@ -6,49 +6,30 @@ Deliverable 3: A written report for the PyBer analysis (20 points)
 Deliverable 3 Instructions
 Use your repository README file to write your analysis of how to address any disparities in the ride-sharing data among the city types.
 
+#Overview of this Analysis 
+
 This analysis intends to provide information on the fare trends across different city types namely, rural, suburban and Urban areas. 
 
 The analysis should contain the following:
 
-Overview of the analysis: Explain the purpose of the new analysis.
+#Data Summary 
+
 Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
+## 
+![](https://github.com/ishan9220/Module-5---Pyber-Analysis/blob/main/pandas%20data%20frame%20result.png)
+
+##
 ![](https://github.com/ishan9220/Module-5---Pyber-Analysis/blob/main/Pyber%20Challenge.png)
 
+##
+![](https://github.com/ishan9220/Module-5---Pyber-Analysis/blob/main/Fares%20results.png)
 
-Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
-Deliverable 3 Requirements
-Structure, Organization, and Formatting (6 points)
-The written analysis has the following structure, organization, and formatting:
+#3 three business recommendations to the CEO for addressing any disparities among the city types.
 
-There is a title, and there are multiple sections. (2 pt)
-Each section has a heading and subheading. (2 pt)
-Links to images are working and displayed correctly. (2 pt)
-Analysis (14 points)
-The written analysis has the following:
+1) The average fare per ride in rural areas is significantly higher than urban areas by 41%. Creating more rides in Rural areas might be a good strategy for Pyber to increase total revenue from rides. 
+2) The avergae fare per driver in rural areas is also significantly higher than urban areas by 234%. This is a great motivator to get more drivers to do rural routes by incentizing them with higher margins, 
+3) Urban rides are 30x more than rural rides and 5x more than sub-urban city types which means supply of drivers is considerably higher here and is driving down the price. Incentizing drivers in rural and sub-urban areas can help increase the number of rides in those areas and increase the average fare of rides in urban areas by reducing driver supply and help with overall revenue across all the city types. 
 
-Overview of the analysis:
 
-The purpose of the new analysis is well defined. (3 pt)
-Results:
 
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
-Summary:
-
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
-Submission
-Once you’re ready to submit, make sure to check your work against the rubric to ensure you are meeting the requirements for this Challenge one final time. It’s easy to overlook items when you’re in the zone!
-
-As a reminder, the deliverables for this Challenge are as follows:
-
-Deliverable 1: A ride-sharing summary DataFrame by city type.
-Deliverable 2: A multiple-line chart of total fares for each city type.
-Deliverable 3: A written report for the PyBer analysis (README.md).
-Upload the following to your PyBer_Analysis GitHub repository:
-
-The PyBer_Challenge.ipynb file.
-The results need to be kept populated in the PyBer_Challenge.ipynb file. Do not clear the output from the PyBer_Challenge.ipynb file before uploading to GitHub.
-The “Resources” folder with the city_data.csv and ride_data.csv files.
-The “analysis” folder with the PyBer_fare_summary.png.
-An updated README.md that has your written analysis.
-To submit your challenge assignment in Canvas, click Submit, then provide the URL of your PyBer_Analysis GitHub repository for grading. Comments are disabled for graded submissions in BootCampSpot. If you have questions about your feedback, please notify your instructional staff or the Student Success Manager. If you would like to resubmit your work for an improved grade, you can use the Re-Submit Assignment button to upload new links. You may resubmit up to 3 times for a total of 4 submissions.
