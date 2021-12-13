@@ -6,17 +6,17 @@ Deliverable 3: A written report for the PyBer analysis (20 points)
 Deliverable 3 Instructions
 Use your repository README file to write your analysis of how to address any disparities in the ride-sharing data among the city types.
 
-#Overview of this Analysis 
+# Overview of this Analysis 
 
 This analysis intends to provide information on the fare trends across different city types namely, rural, suburban and Urban areas. 
 
 The analysis should contain the following:
 
-#Data Summary 
+# Data Summary 
 
 Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
-## 
+## Query used in python via pandas to pull the required data summary from the data file. 
 ![](https://github.com/ishan9220/Module-5---Pyber-Analysis/blob/main/pandas%20data%20frame%20result.png)
 
 ##
@@ -25,7 +25,7 @@ Results: Using images from the summary DataFrame and multiple-line chart, descri
 ##
 ![](https://github.com/ishan9220/Module-5---Pyber-Analysis/blob/main/Fares%20results.png)
 
-#3 three business recommendations to the CEO for addressing any disparities among the city types.
+# 3 Business recommendations to the CEO for addressing any disparities among the city types.
 
 1) The average fare per ride in rural areas is significantly higher than urban areas by 41%. Creating more rides in Rural areas might be a good strategy for Pyber to increase total revenue from rides. 
 2) The avergae fare per driver in rural areas is also significantly higher than urban areas by 234%. This is a great motivator to get more drivers to do rural routes by incentizing them with higher margins, 
