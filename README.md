@@ -22,7 +22,7 @@ Results: Using images from the summary DataFrame and multiple-line chart, descri
 ##
 ![](https://github.com/ishan9220/Module-5---Pyber-Analysis/blob/main/Pyber%20Challenge.png)
 
-##
+## Dataframe with total rides, drivers, revenue, average fare and average fare earned per Driver
 ![](https://github.com/ishan9220/Module-5---Pyber-Analysis/blob/main/Fares%20results.png)
 
 # 3 Business recommendations to the CEO for addressing any disparities among the city types.
